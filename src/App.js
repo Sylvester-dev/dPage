@@ -1,24 +1,27 @@
-import logo from './logo.svg';
-import './App.css';
+import { Download, Features, SectionWrapper } from './components';
+import assets from './assets';
+import styles from './styles/Global';
 
-function App() {
+const App = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <SectionWrapper 
+        
+      />
+      <SectionWrapper 
+        
+      />
+      <Features />
+      <SectionWrapper 
+        
+      />
+      <SectionWrapper 
+        
+      />
+      <Download />
+
+      
+    </>
   );
 }
 
