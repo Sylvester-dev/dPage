@@ -7,6 +7,18 @@ import javascript from "./javascript.png";
 import react from "./react.png";
 import scene from "./scene.png";
 import mockup from "./mockup.png";
+import city from "./city.gif";
+import dao from "./dao.png";
+import defi from "./defi.png";
+import land from "./land.png";
+import compony from "./compony.png";
+import land1 from "./land1.png";
+import exchange from "./exchange.gif";
+import crypto from "./crypto.gif";
+import trade from "./trade.gif";
+import build from "./build.png";
+import bounce from "./bounce.gif";
+import cursor from "./cursor.png";
 
 export default {
   homeHero,
@@ -18,4 +30,16 @@ export default {
   react,
   scene,
   mockup,
+  city,
+  dao,
+  defi,
+  land,
+  compony,
+  land1,
+  exchange,
+  crypto,
+  bounce,
+  build,
+  trade,
+  cursor,
 };
