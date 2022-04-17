@@ -14,7 +14,7 @@ const Download = () => {
         <button className={styles.btnPrimary}>Source Code</button>
         <div className={styles.flexCenter}>
           <img 
-            src={assets.land}
+            src={assets.globe}
             alt="download_png"
             className={styles.fullImg}
           />

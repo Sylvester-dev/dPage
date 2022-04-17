@@ -16,12 +16,22 @@ const Features = () => {
       <div className={`${styles.subSection} flex-col text-center`}>
         <div>
           <h1 className={`${styles.h1Text} ${styles.whiteText}`}>Technologies</h1>
-          <p className={`${styles.pText} ${styles.whiteText}`}>ProNef has been developed using a cross-platform technology, React Native.</p>
+          <p className={`${styles.pText} ${styles.whiteText}`}>dLand has been developed using a Blockchain Technology</p>
         </div>
 
         <div className={styles.flexWrap}>
-          <FeatureCard iconUrl={assets.react} iconText="React Native" />
+          <FeatureCard iconUrl={assets.react} iconText="ReactJS" />
           <FeatureCard iconUrl={assets.javascript} iconText="JavaScript" />
+          <FeatureCard iconUrl={assets.javascript} iconText="threeJs" />
+          <FeatureCard iconUrl={assets.javascript} iconText="Hardhat" />
+          <FeatureCard iconUrl={assets.javascript} iconText="Solidity" />
+          <FeatureCard iconUrl={assets.javascript} iconText="Chai" />
+          <FeatureCard iconUrl={assets.javascript} iconText="Alchemy" />
+          <FeatureCard iconUrl={assets.javascript} iconText="IPFS" />
+          <FeatureCard iconUrl={assets.javascript} iconText="Tailwind" />
+          <FeatureCard iconUrl={assets.javascript} iconText="Ether.js" />
+          <FeatureCard iconUrl={assets.javascript} iconText="Metamask" />
+          <FeatureCard iconUrl={assets.javascript} iconText="Wallet Connect" />
         </div>
       </div>
     </div>

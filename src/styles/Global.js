@@ -31,7 +31,7 @@ const styles = {
   flexCenter: "flex justify-center items-center",
   flexWrap: "flex justify-center flex-wrap",
 
-  fullImg: "w-full h-full object-cover",
+  fullImg: "w-6/12 h-full object-cover",
   sectionImg: "w-full h-full minmd:w-11/12 minmd:h-11/12 object-contain",
   btnIcon: "w-5 h-5 minmd:w-10 minmd:h-10 object-contain",
 
