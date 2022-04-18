@@ -32,6 +32,7 @@ const Features = () => {
           <FeatureCard iconUrl={assets.javascript} iconText="Ether.js" />
           <FeatureCard iconUrl={assets.javascript} iconText="Metamask" />
           <FeatureCard iconUrl={assets.javascript} iconText="Wallet Connect" />
+          <FeatureCard iconUrl={assets.javascript} iconText="fleek" />
         </div>
       </div>
     </div>
