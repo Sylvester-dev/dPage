@@ -6,10 +6,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Repos
 
-[dLand](https://github.com/Sylvester-dev/dLand)
-[dDex](https://github.com/Sylvester-dev/dDex)
-[dDao](https://github.com/Sylvester-dev/dDao)
-[ERC20 dldtoken](https://github.com/Sylvester-dev/dldToken)
+### [dLand](https://github.com/Sylvester-dev/dLand)
+### [dDex](https://github.com/Sylvester-dev/dDex)
+### [dDao](https://github.com/Sylvester-dev/dDao)
+### [ERC20 dldtoken](https://github.com/Sylvester-dev/dldToken)
 
 ### `yarn start`
 
