@@ -1,10 +1,15 @@
-# Getting Started with Create React App
+# dWorld
+
+dworld is a 3D virtual world browser-based platform. Users may buy virtual plots of land in the platform as NFTs via the $DLND cryptocurrency, which uses the Ethereum blockchain. People may trade, buy land, make decisions, vote over them via dDao and earn LP tokens providing liquidity via dDex and earn FYI.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Available Repos
 
-In the project directory, you can run:
+[dLand](https://github.com/Sylvester-dev/dLand)
+[dDex](https://github.com/Sylvester-dev/dDex)
+[dDao](https://github.com/Sylvester-dev/dDao)
+[ERC20 dldtoken](https://github.com/Sylvester-dev/dldToken)
 
 ### `yarn start`
 
